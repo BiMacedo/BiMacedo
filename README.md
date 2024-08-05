@@ -13,7 +13,9 @@
         <ul>
             <li><strong><a href="link-do-repositorio">Nome do Projeto 1</a>:</strong> Breve descrição do que o projeto faz e o que você utilizou para construí-lo.</li>
             <li><strong><a href="link-do-repositorio">Nome do Projeto 2</a>:</strong> Breve descrição do que o projeto faz e o que você utilizou para construí-lo.</li>
-            <li><strong><a href="link-do-repositorio">Nome do Projeto 3</a>:</strong> Breve descrição do que o projeto faz e o que você utilizou para construí-lo.</li>
+            <li><strong><a href="https://github.com/victormesquitta/Petshop">Petshop Mimu's Pet</a>:</strong> O projeto Mimu's Pet é uma aplicação web desenvolvida para gerenciar um petshop online. Ele inclui funcionalidades como exibição de produtos, gerenciamento de contas de usuários e administração de pedidos e clientes. Além disso, conta com um protótipo em Figma.
+Sendo utilizados Java/Spring Boot ☕ - React/Typescript 🧬.
+</li>
         </ul>
     </div>
 
